@@ -21,7 +21,7 @@ app.use('/css',express.static(path.resolve(__dirname, "assets/css")))
 app.use('/img',express.static(path.resolve(__dirname, "assets/img")))
 app.use('/js',express.static(path.resolve(__dirname, "assets/js")))
 
-//const db = 'mongodb+srv://denis:12345@cluster0.k8yup.gcp.mongodb.net/usersystem?retryWrites=true&w=majority'
+
 
 
 
